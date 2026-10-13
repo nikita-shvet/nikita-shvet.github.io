@@ -22,7 +22,7 @@ assets/Nikita_Shvetsov_Product_Manager_CV.pdf  резюме для скачив�
 
 ## Публикация на GitHub Pages (≈10 минут)
 
-1. Зарегистрируйтесь на [github.com](https://github.com/signup). Логин станет адресом сайта, поэтому лучше выбрать `nikita-shvet`.
+1. Зарегистрируйтесь на [github.com](https://github.com/signup). Логин станет адресом сайта.
 2. Нажмите **+ → New repository**. В поле **Repository name** введите ровно `nikita-shvet.github.io` (ваш логин + `.github.io`). Выберите **Public** и нажмите **Create repository**.
 3. На странице репозитория нажмите **uploading an existing file**. Перетащите **содержимое** папки `site` — файл `index.html` и папки `assets` и `cases`, а не саму папку `site`. Нажмите **Commit changes**.
 4. Откройте **Settings → Pages**. В блоке **Build and deployment** выберите **Source: Deploy from a branch**, затем **Branch: main** и папку **/ (root)**. Нажмите **Save**.
