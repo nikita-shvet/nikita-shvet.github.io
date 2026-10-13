@@ -18,15 +18,15 @@ assets/Nikita_Shvetsov_Product_Manager_CV.pdf  резюме для скачив�
 
 1. **Заполните жёлтые блоки «✎ Дополнить»** на страницах кейсов. Найти их: поиск `class="todo` в папке `cases`. Когда заполните блок, удалите весь тег `<span class="todo">…</span>`.
 2. **Исправьте PDF-резюме**: в разделе «О себе» указано «LTV +32%», а в опыте — «с 21 до 90 дней». Сайт отдаёт этот PDF на скачивание, поэтому цифры должны совпадать. Новый PDF положите в `assets/` под тем же именем.
-3. Если ваш логин на GitHub будет не `nikita-shvetsov`, замените во всех файлах `nikita-shvetsov.github.io` на `ВАШ-ЛОГИН.github.io` (используется в превью для Telegram).
+3. Если ваш логин на GitHub будет не `nikita-shvet`, замените во всех файлах `nikita-shvet.github.io` на `ВАШ-ЛОГИН.github.io` (используется в превью для Telegram).
 
 ## Публикация на GitHub Pages (≈10 минут)
 
-1. Зарегистрируйтесь на [github.com](https://github.com/signup). Логин станет адресом сайта, поэтому лучше выбрать `nikita-shvetsov`.
-2. Нажмите **+ → New repository**. В поле **Repository name** введите ровно `nikita-shvetsov.github.io` (ваш логин + `.github.io`). Выберите **Public** и нажмите **Create repository**.
+1. Зарегистрируйтесь на [github.com](https://github.com/signup). Логин станет адресом сайта, поэтому лучше выбрать `nikita-shvet`.
+2. Нажмите **+ → New repository**. В поле **Repository name** введите ровно `nikita-shvet.github.io` (ваш логин + `.github.io`). Выберите **Public** и нажмите **Create repository**.
 3. На странице репозитория нажмите **uploading an existing file**. Перетащите **содержимое** папки `site` — файл `index.html` и папки `assets` и `cases`, а не саму папку `site`. Нажмите **Commit changes**.
 4. Откройте **Settings → Pages**. В блоке **Build and deployment** выберите **Source: Deploy from a branch**, затем **Branch: main** и папку **/ (root)**. Нажмите **Save**.
-5. Через 1–2 минуты сайт откроется по адресу `https://nikita-shvetsov.github.io`.
+5. Через 1–2 минуты сайт откроется по адресу `https://nikita-shvet.github.io`.
 
 ## Проверка после публикации
 
